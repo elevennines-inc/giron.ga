@@ -10,6 +10,10 @@
 MIT ライセンスと Beerware ライセンスのもとに公開されています。
 詳細は [LICENSE.md](LICENSE.md) をご覧ください。
 
+## 本番環境（β）
+
+https://hidden-beach-98037.herokuapp.com
+
 ## 使い方
 
 このアプリケーションを動かす場合は、まずはリポジトリを手元にクローンしてください。
